@@ -1,0 +1,4 @@
+222
+printf("hello world");
+nixan is a baby potty
+nikku
